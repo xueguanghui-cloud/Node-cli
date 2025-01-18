@@ -1,0 +1,16 @@
+{
+  "name": "@xue-yarn/core",
+  "version": "2.0.0",
+  "devDependencies": {},
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
